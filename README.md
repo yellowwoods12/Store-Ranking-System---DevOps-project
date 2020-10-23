@@ -30,8 +30,32 @@ In order to start with the solution, some requirements had to be installed and c
    Steps to install these requirements:
    
     -pip install django==3.0.5
-
-    -pip install django-cors-headers
+    
+    
+   ## Frontend:
+   
+   You need:
+   
+     - "react": "^17.0.1",
+     -  "react-dom": "^17.0.1",
+     -  "react-scripts": "4.0.0",
+     -  "web-vitals": "^0.2.4",
+     -  "axios": "^0.19.2",
+     -  "prop-types": "^15.7.2",
+     -  "react-redux": "^7.2.0",
+     -  "react-router": "^5.1.2",
+     -  "react-router-dom": "^5.1.2",
+     -  "redux": "^4.0.5",
+     -  "redux-devtools-extension": "^2.13.8",
+     -  "redux-thunk": "^2.3.0",
+     -  "webpack": "^4.43.0"
+   
+  
+   Steps to install these requirements:
+   
+    - git clone "repo_address"
+    - cd store-ranking-system
+    - npm install
    
   
    
