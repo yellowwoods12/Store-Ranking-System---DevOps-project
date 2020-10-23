@@ -9,3 +9,7 @@ The whole system will consist of 2 portals. The first one to onboard the stores 
 
 ## TECH STACK: 
 FRONTEND - ReactJS
+
+BACKEND - Django (Python)
+
+DATABASE - SQLite
