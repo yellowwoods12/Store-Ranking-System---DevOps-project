@@ -13,3 +13,34 @@ FRONTEND - ReactJS
 BACKEND - Django (Python)
 
 DATABASE - SQLite
+
+## SETUP
+In order to start with the solution, some requirements had to be installed and certain pre-requisites had to be kept in mind.
+   ## Backend:
+   
+   In addition to basic Python3 you need:
+   
+      - Django==3.0.5
+
+      - django-cors-headers
+
+      - SQLite studio (to have a look at the database)
+   
+  
+   Steps to install these requirements:
+   
+    -pip install django==3.0.5
+
+    -pip install django-cors-headers
+   
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
