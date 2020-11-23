@@ -57,7 +57,52 @@ In order to start with the solution, some requirements had to be installed and c
     - cd store-ranking-system
     - npm install
    
-  
+## STEPS TO EXECUTE THE CODE: (as per Windows)
+```
+1.Open command prompt in your system.
+
+2.Create an empty directory on your system.
+
+3.Create a virtual environment inside this directory as follows:
+
+             -python -m venv venv // virtual env created
+
+             -venv\Scripts\activate.bat //venv activated
+
+             -Install all the dependencies as given above
+
+4.Clone the project into the directory created in Step 2 (git clone “address of project”)
+
+5.Make sure your virtual env is active and you’re inside the project directory  
+  and start your Django server by executing the following command:
+         
+             -python manage.py runserver 
+
+             -Copy the address and paste it in your web browser
+
+6.You can start using the project now.
+
+7.In case you wish to access the admin panel to check the various tables in the system then open
+  the django admin panel by:
+
+             -Append “/admin” in the server address (Step 5)
+
+             -In case you’re a new user, create a superuser to enter into the panel by executing the  
+              following command in your command prompt(make sure that your virtual env is active and 
+              you’re inside the project directory leadmanager):
+              
+                            	python manage.py createsuperuser
+
+                            	Enter all the information being asked
+
+                            	Go back to the admin panel and enter the username and password as created.
+```
+
+You now have access to all the functionalities in this project.
+
+### GOOD LUCK!
+
+
    
    
    
